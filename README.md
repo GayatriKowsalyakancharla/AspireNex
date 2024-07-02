@@ -1,36 +1,51 @@
 ## Personal Portfolio Page
 Here’s a sample README file for my Personal Portfolio Page:
 
+## Introduction
+This portfolio is designed to showcase my skills, projects, and experiences as a Computer Science student. It includes an introduction to who I am, my educational background, skills, and projects I have worked on. It also provides various ways to get in touch with me.
 
-My Personal Portfolio Page includes sections for your home, about, resume, projects, and contact information. I've reviewed it and it appears well-structured and visually appealing.
+## Sections
+Home
+The Home section provides a brief introduction to who I am and what I do. It includes:
 
-1. **Title and Typing Animation**:
-    - I have implemented a typing animation for the text "Student". However, if you wish to add more texts to this animation, you might want to include them in the `typingTexts` array and adjust the animation logic.
+* A welcome message
+* My name and role
+* A brief description of my current status
+* Links to my works on GitHub
+## About
+The About section provides more detailed information about me, including:
 
-2. **Skills Section**:
-    - The skills section under "About Me" could be further customized to reflect more skills or different proficiency levels if needed.
+* A short biography
+* My skills with proficiency levels
+* Personal information (name, job role, address, etc.)
+* A brief description of my interests and activities
+## Resume
+The Resume section includes:
 
-3. **Experience and Education**:
-    - I have listed my experiences and education in a clear and concise manner. Consider adding more details or bullet points if there are additional highlights you'd like to showcase.
+* A summary of my resume
+* Detailed information about my educational background and professional experiences
+* Links to download my resume
+## Projects
+The Projects section showcases the projects I have worked on, including:
 
-4. **Projects Section**:
-    - The project descriptions are detailed and well-written. Ensure that the links to your GitHub or GitLab projects are correct.
+* Project titles and descriptions
+* Technologies used
+* Links to project repositories or demos
+## Contact
+The Contact section provides various ways to get in touch with me, including:
 
-5. **Contact Section**:
-    - All contact information appears accurate. Ensure the links for phone and email are clickable and correctly formatted.
-
-6. **Footer**:
-    - Ensure your footer is closing properly with the `</div></div></footer>` tags.
-
-
-
-
-
-
-
-
-
-
+* My address
+* Contact number
+* Email address
+* Links to my LinkedIn profile and resume
+## Technologies Used
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap 4
+* jQuery
+* Owl Carousel
+* AOS (Animate on Scroll)
 
 
 
