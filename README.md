@@ -46,10 +46,12 @@ The Contact section provides various ways to get in touch with me, including:
 * jQuery
 * Owl Carousel
 * AOS (Animate on Scroll)
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Online Quiz Maker
 Here’s a sample README file for my Online Quiz Maker:
 
