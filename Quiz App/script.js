@@ -22,8 +22,8 @@ const questions = [
         answers: [
             { text: "20", correct: false},
             { text: "18", correct: false},
-            { text: "14", correct: false},
-            { text: "32", correct: true},
+            { text: "14", correct: true},
+            { text: "32", correct: false},
         ]
     }, 
     {
